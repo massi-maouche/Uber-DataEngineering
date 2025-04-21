@@ -32,3 +32,8 @@ This project demonstrates an end-to-end data engineering pipeline for analyzing 
 *   **Compute:** Google Compute Engine (GCE) for Mage VM
 *   **Data Warehouse:** Google BigQuery
 *   **BI Tool:** Looker
+
+## Visualisation
+
+Vous pouvez explorer le rapport interactif sur Looker Studio :
+[Voir le rapport Uber Data Analysis](https://lookerstudio.google.com/reporting/850c4671-dc48-4b7e-a855-194e3e2c3b4b)
