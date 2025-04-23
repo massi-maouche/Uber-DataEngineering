@@ -23,6 +23,14 @@ This project demonstrates an end-to-end data engineering pipeline for analyzing 
     ├── transform.py         # Mage script for transforming data
     └── load.py              # Mage script for loading data into BigQuery
 ```
+## Dataset Used
+
+TLC Trip Record Data:
+Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+
+More info about the dataset can be found here:
+
+Website - [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ## Technologies Used
 
